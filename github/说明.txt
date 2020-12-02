@@ -1,4 +1,10 @@
 ﻿github : 主要存放好的github 上的项目  每个项目都要一个描述文件 description.txt 文件
 
 
-github->01  :  只是我在github 上学习了多少个项目的编号uuu
+01  :  只是我在github 上学习了多少个项目的编号 01 这个目录里主要是看练习springboot 继承各种技术活
+
+02 ： 主要放一些 工具类工作中经常用到的java 工具类
+
+03 ： github好的项目搜集
+
+

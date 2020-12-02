@@ -1,0 +1,12 @@
+01=========== ��֮��github�� https://gitee.com/52itstyle/SPTools/tree/master
+
+
+02 ====��֮��github�� https://gitee.com/52itstyle/spring-boot-seckill/tree/master
+
+03====== ��ɱϵͳ ��֮ github�� https://github.com/hfbin/Seckill  
+��Ҫ�� ���� SpringBoot+Mybatis+Redis+RabbitMQ ��ɱϵͳ
+
+
+
+
+
